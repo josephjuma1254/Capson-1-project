@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://herculesstands.us/wp-content/uploads/2024/04/hercules-contact-2.jpg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     font-style: oblique;
+    font-size: larger;
+    font-weight: bolder;
+}
+h1{
+color: red;
+font-weight: bolder;
+font-style: normal;
+}
+h2{
+ color: blue;   
+}
+h3{
+    color: gold;
+}
+nav{
+    background-image: url(https://img.freepik.com/premium-photo/3d-computer-device-with-peripheral-devices_1057389-29758.jpg) ;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+
+}
+.navbar{
+    display: flex;
+    gap: 250px;
+    justify-content: center;
+}
